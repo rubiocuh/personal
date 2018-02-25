@@ -1,0 +1,18 @@
+## Customer Service Representative Flow
+PAGE_CONTACT_LIST
+PAGE_MESSAGE_LIST
+PAGE_RMA_MANAGEMENT
+
+## Customer Flow
+PAGE_PRODUCT_LIST			Product List - Displays listings of active products
+PAGE_PRODUCT_DETAIL			Displays Details of products clicked on - Add To Cart Option, select options
+PAGE_CREATE_ORDER			In Cart - Creating the Order
+PAGE_CREATE_ORDER_DETAILS   Add bill to, ship to (Click box if possible) Card Information
+PAGE_ORDER_GRID				My Orders - View order_hdr & order_details 
+PAGE_SHIPMENT_GRID			My Shipments -View shipment_hdr, shipment_Details
+PAGE_PAST_ORDER_GRID		My Prior - View previous, delivered and completed orders
+
+## Administrator Flow
+PAGE_PRODUCT_MANAGEMENT		My Product - Set products as available, or disabled,
+PAGE_INVENTORY_MANAGEMENT	My Inventory - View of all products, On Click will give Details of a particular Item
+PAGE_USER_MANAGEMENT		My Users - View all users, add, remove, reset password, change type
